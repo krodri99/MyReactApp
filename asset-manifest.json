@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myreactapp/static/css/main.5e6e4946.chunk.css",
+    "main.js": "/myreactapp/static/js/main.a9d8edff.chunk.js",
+    "main.js.map": "/myreactapp/static/js/main.a9d8edff.chunk.js.map",
+    "runtime-main.js": "/myreactapp/static/js/runtime-main.7f41143c.js",
+    "runtime-main.js.map": "/myreactapp/static/js/runtime-main.7f41143c.js.map",
+    "static/js/2.dd041346.chunk.js": "/myreactapp/static/js/2.dd041346.chunk.js",
+    "static/js/2.dd041346.chunk.js.map": "/myreactapp/static/js/2.dd041346.chunk.js.map",
+    "static/js/3.c069c1b9.chunk.js": "/myreactapp/static/js/3.c069c1b9.chunk.js",
+    "static/js/3.c069c1b9.chunk.js.map": "/myreactapp/static/js/3.c069c1b9.chunk.js.map",
+    "index.html": "/myreactapp/index.html",
+    "static/css/main.5e6e4946.chunk.css.map": "/myreactapp/static/css/main.5e6e4946.chunk.css.map",
+    "static/js/2.dd041346.chunk.js.LICENSE.txt": "/myreactapp/static/js/2.dd041346.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/myreactapp/static/media/bg-intro-mobile.02ce3982.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f41143c.js",
+    "static/js/2.dd041346.chunk.js",
+    "static/css/main.5e6e4946.chunk.css",
+    "static/js/main.a9d8edff.chunk.js"
+  ]
+}
